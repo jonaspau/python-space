@@ -1,5 +1,6 @@
 Reading Rocks
 basalt
+basalt
 breccia
 highland
 regolith
@@ -19,3 +20,4 @@ highland
 highland
 breccia
 basalt
+diamond
